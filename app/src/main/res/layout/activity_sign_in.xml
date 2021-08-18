@@ -76,30 +76,5 @@
             app:backgroundTint="#FFFFFF"
             app:cornerRadius="5dp" />
 
-        <TextView
-            android:id="@+id/textView2"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
-            android:gravity="center"
-            android:text="Prajwal Singh"
-            android:textColor="@color/purple_700" />
-
-        <TextView
-            android:id="@+id/textView3"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:gravity="center"
-            android:text="Tushar Wandkar "
-            android:textColor="@color/purple_700" />
-
-        <TextView
-            android:id="@+id/textView4"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:gravity="center"
-            android:text="Ayush Saraf"
-            android:textColor="@color/purple_700" />
-
     </LinearLayout>
 </LinearLayout>
