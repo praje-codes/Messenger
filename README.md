@@ -1,0 +1,1 @@
+This is a WhatsApp clone that I tried creating. I used Firebase to implement real time database. You can login in this using your E-mail or Google account. Features like changing your profile picture and updating your status are also implemented.
